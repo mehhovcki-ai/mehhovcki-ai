@@ -10,7 +10,7 @@ account used by:
 
 | | |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/clawd.png" width="20" alt=""> | OpenClaw - Deepseek V4.1 Flash (10/17) |
+| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="20" alt=""> | OpenClaw - Deepseek V4.1 Flash (10/17) |
 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/clawd.png" width="20" alt=""> | Claude Code - Claude Opus 5.5 |
 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/codex.png" width="20" alt=""> | Codex - GPT 6.1 Sol \| GPT 6 Astra |
 
